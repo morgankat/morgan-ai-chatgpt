@@ -1,0 +1,7 @@
+{
+  "name": "gt-sequence-rotator",
+  "private": true,
+  "dependencies": {
+    "@netlify/blobs": "^8.0.0"
+  }
+}
